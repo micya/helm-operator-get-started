@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: micya/podinfo
-      tag: dev-vnoylhl6
+      tag: dev-0.5.0
     replicaCount: 1
     hpa:
       enabled: false
@@ -24,4 +24,4 @@ spec:
       enabled: true
       path: /
       hosts:
-        - dev.52.154.171.56.nip.io
+      - dev.52.154.171.56.nip.io
