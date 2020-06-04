@@ -20,3 +20,7 @@ spec:
     replicaCount: 1
     hpa:
       enabled: false
+    ingress:
+      enabled: true
+      hosts:
+        - dev.52.154.171.56.nip.io
