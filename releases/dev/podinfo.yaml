@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: micya/podinfo
-      tag: dev-test
+      tag: dev-vnoylhl6
     replicaCount: 1
     hpa:
       enabled: false
