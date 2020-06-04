@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: micya/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-beep
     replicaCount: 1
     hpa:
       enabled: false
